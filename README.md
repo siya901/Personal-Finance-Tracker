@@ -22,11 +22,13 @@ PocketPilot is a personal finance tracking app built with **Kotlin**, **Jetpack 
 2. Open in Android Studio  
 3. Run on emulator or device
 
-## 👤 Screenshots 
-![signup](signup.jpg)
-![profile](profile.jpg)
-![home](home.jpg)
-![overview](overview.jpg)
-![history](history.jpg)
-![dashboard](dashboard.jpg)
+<h2>📸 Screenshots</h2>
+
+<img src="signup.jpg" alt="Signup" width="300"/><br><br>
+<img src="profile.jpg" alt="Profile" width="300"/><br><br>
+<img src="home.jpg" alt="Home" width="300"/><br><br>
+<img src="overview.jpg" alt="Overview" width="300"/><br><br>
+<img src="history.jpg" alt="History" width="300"/><br><br>
+<img src="dashboard.jpg" alt="Dashboard" width="300"/>
+
 
